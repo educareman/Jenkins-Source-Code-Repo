@@ -1,3 +1,3 @@
 FROM nginx
 
-ADD /bakery/ /usr/share/nginx/html
+ADD /bakery/ /usr/share/nginx/html/
